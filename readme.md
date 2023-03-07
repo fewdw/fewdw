@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Frédéric</h1>
 <h3 align="center">A passionate backend developer from Canada</h3>
 
+- 🌱 I’m currently learning **A.I.**
+
+- 📫 How to reach me **frederic.alefebvre@gmail.com**
+
+- ⚡ Fun fact **Huge boxing fan**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/frederic-alexandre-lefebvre-b61909222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frederic-alexandre-lefebvre-b61909222" height="30" width="40" /></a>
